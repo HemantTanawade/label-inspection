@@ -80,9 +80,9 @@ Dropout -> Flatten -> Dense -> Softmax
 
 ## Dataset
 ## Evaluation!
-![Sample Output - Defective Label Detected]()
-![Sample Output - Proper Label Detected](Diagram/ok_0_111.jpeg)
-![Confusion Matrix]()
+-![Sample Output - Defective Label Detected](Diagram/def_0_8990.jpeg)
+-![Sample Output - Proper Label Detected](Diagram/ok_0_111.jpeg)
+-![Confusion Matrix]()
  
 ## Demo
 
