@@ -99,4 +99,4 @@ You can view the demonstration video of the Label Inspection System
 
 
 ## Result
-![Confusion Matrix](Diagram/Screenshot (1).png)
+![Confusion Matrix](Diagram/Screenshot (1).png).
