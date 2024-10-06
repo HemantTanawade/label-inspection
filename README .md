@@ -92,9 +92,10 @@ Here are some sample outputs from the Label Inspection System:
 
 -![Confusion Matrix]()
  
-## Demo
+## Demonstration
 
-Insert gif or link to demo
+You can view the demonstration video of the Label Inspection System 
+[here](https://youtu.be/_ywLO1vzUc4?si=KqAjs7iFajGG_tq1)
 
 
 ## Result
