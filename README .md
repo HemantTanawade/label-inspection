@@ -76,7 +76,7 @@ Detail the CNN architecture you used, including the number of layers, activation
 Conv2D -> ReLU Activation -> MaxPooling2D
 Dropout -> Flatten -> Dense -> Softmax
 
-![Model Architecture](path/to/model_architecture.png)
+![Model Architecture]()
 
 ## Dataset
 ## Evaluation![Sample Output - Defective Label Detected](path/to/output_image1.png)
