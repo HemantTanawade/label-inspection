@@ -11,9 +11,9 @@
 • [Setup and Installation](#setup-and-installation) 
 • [Model Architecture](#model-architecture) 
 • [Dataset](#dataset) 
-• [Results and Evaluation](#results-and-evaluation)
-• [Contributing](#contributing) 
-• [License](#license)
+• [Evaluation](#evaluation)
+• [Demonstration](#demonstration) 
+• [Result](#result)
 
 ## Overview
 This project uses a Convolutional Neural Network (CNN) to develop a real-time Label Inspection System that identifies defective labels. The system is built with OpenCV for image processing and TensorFlow for deep learning. It leverages a custom-trained CNN model to classify labels as either defective or non-defective based on images captured in real-time from cameras or input through other sources.
@@ -79,6 +79,24 @@ Dropout -> Flatten -> Dense -> Softmax
 ![Model Architecture](Diagram/82370cnn1.gif)
 
 ## Dataset
+The dataset used for training and evaluating the Label Inspection System consists of images of labels, both defective and non-defective. Below are the key details about the dataset:
+
+### 1. Data Source
+- **Source**: [Link to dataset if available]
+
+### 2. Data Structure
+- **Image Format**: JPEG.
+- **Resolution**: Dimensions of the images 217*500.
+- **Classes**: 
+  - Defective labels 
+  - ok labels
+
+### 3. Number of Samples
+- **Total training Images**: Total number of images in the training dataset.
+  -1,177 images total (603 defective, 574 ok).
+- **Total testing Images**: Total number of images in the testing dataset.
+  -1,177 images total (603 defective, 574 ok).
+
 ## Evaluation!
 ## Sample Outputs
 
@@ -99,4 +117,4 @@ You can view the demonstration video of the Label Inspection System
 
 
 ## Result
-![Confusion Matrix](Diagram/Screenshot (1).png).
+![Confusion Matrix](Diagram/Screenshot.png).
