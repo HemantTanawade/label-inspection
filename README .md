@@ -79,7 +79,9 @@ Dropout -> Flatten -> Dense -> Softmax
 ![Model Architecture](Diagram/82370cnn1.gif)
 
 ## Dataset
-## Evaluation![Sample Output - Defective Label Detected](path/to/output_image1.png)
+## Evaluation!
+[Sample Output - Defective Label Detected]()
+[Sample Output - Proper Label Detected]()
 ![Confusion Matrix](path/to/confusion_matrix.png)
  
 ## Demo
