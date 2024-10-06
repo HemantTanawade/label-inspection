@@ -80,8 +80,16 @@ Dropout -> Flatten -> Dense -> Softmax
 
 ## Dataset
 ## Evaluation!
--![Sample Output - Defective Label Detected](Diagram/def_0_8990.jpeg)
--![Sample Output - Proper Label Detected](Diagram/ok_0_111.jpeg)
+## Sample Outputs
+
+Here are some sample outputs from the Label Inspection System:
+
+### Defective Label Detected
+![Sample Output - Defective Label Detected](Diagram/def_0_8990.jpeg)
+
+### Proper Label Detected
+![Sample Output - Proper Label Detected](Diagram/ok_0_111.jpeg)
+
 -![Confusion Matrix]()
  
 ## Demo
