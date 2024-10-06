@@ -90,7 +90,7 @@ Here are some sample outputs from the Label Inspection System:
 ### Proper Label Detected
 ![Sample Output - Proper Label Detected](Diagram/ok_0_111.jpeg)
 
--![Confusion Matrix]()
+
  
 ## Demonstration
 
@@ -99,3 +99,4 @@ You can view the demonstration video of the Label Inspection System
 
 
 ## Result
+![confusion matrix](Diagram/Screenshot(1).png)
