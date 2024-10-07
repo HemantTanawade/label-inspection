@@ -82,7 +82,7 @@ Dropout -> Flatten -> Dense -> Softmax
 The dataset used for training and evaluating the Label Inspection System consists of images of labels, both defective and non-defective. Below are the key details about the dataset:
 
 ### 1. Data Source
-- **Source**: ![Model Architecture]()
+- **Source**: ![dataset](label)
 
 ### 2. Data Structure
 - **Image Format**: JPEG.
