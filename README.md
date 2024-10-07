@@ -95,7 +95,7 @@ The dataset used for training and evaluating the Label Inspection System consist
 - **Total training Images**: Total number of images in the training dataset.
   -1,177 images total (603 defective, 574 ok).
 - **Total testing Images**: Total number of images in the testing dataset.
-  -1,177 images total (603 defective, 574 ok).
+  -418 images total (214 defective, 204 ok).
 
 ## Evaluation!
 ## Sample Outputs
