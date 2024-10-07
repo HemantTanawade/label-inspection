@@ -117,4 +117,4 @@ You can view the demonstration video of the Label Inspection System
 
 
 ## Result
-![Confusion Matrix
+![Confusion Matrix].()
